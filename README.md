@@ -1,6 +1,6 @@
 # SP_FED_Personal_Website
 
-Personal Website created for the Front-End Development (FED) module in SP. Involves HTML, CSS and Javascript animations as well as the Bootstrap framework
+Personal Website created for the Front-End Development (FED) module in SP. Involves HTML, CSS and Javascript animations as well as the Bootstrap framework.
 
 Screenshots:
 ![image](https://github.com/andrewdpoh/SP_FED_Personal_Website/assets/88697807/67804241-2c7e-4bac-b1e8-f10d7fed47ba)
