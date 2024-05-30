@@ -1,4 +1,4 @@
-![image](https://github.com/andrewdpoh/SP_FED_Personal_Website/assets/88697807/e8d71caf-bf3d-4778-9f48-2e519cf9c7eb)# SP_FED_Personal_Website
+# SP_FED_Personal_Website
 
 Personal Website created for the Front-End Development (FED) module in SP. Involves HTML, CSS and Javascript animations as well as the Bootstrap framework
 
